@@ -1,0 +1,19 @@
+﻿@model IEnumerable<ecommerce.Model.Product>
+
+<table class="table">
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+              <img src="@item.ImageUrl" alt="@item.Description" />
+        </td>
+        <td>
+            @Html.ActionLink(item.Description, "Details", new { id = item.ProductId })
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+    </tr>
+}
+
+</table>

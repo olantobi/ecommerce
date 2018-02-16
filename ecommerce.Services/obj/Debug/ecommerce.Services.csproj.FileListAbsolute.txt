@@ -1,0 +1,9 @@
+C:\Users\olanrewaju.ebenezer\Documents\Visual Studio 2015\Projects\ecommerce\ecommerce.Services\obj\Debug\ecommerce.Services.csprojResolveAssemblyReference.cache
+C:\Users\olanrewaju.ebenezer\Documents\Visual Studio 2015\Projects\ecommerce\ecommerce.Services\bin\Debug\ecommerce.Services.dll
+C:\Users\olanrewaju.ebenezer\Documents\Visual Studio 2015\Projects\ecommerce\ecommerce.Services\bin\Debug\ecommerce.Services.pdb
+C:\Users\olanrewaju.ebenezer\Documents\Visual Studio 2015\Projects\ecommerce\ecommerce.Services\bin\Debug\ecommerce.Contracts.dll
+C:\Users\olanrewaju.ebenezer\Documents\Visual Studio 2015\Projects\ecommerce\ecommerce.Services\bin\Debug\ecommerce.Model.dll
+C:\Users\olanrewaju.ebenezer\Documents\Visual Studio 2015\Projects\ecommerce\ecommerce.Services\bin\Debug\ecommerce.Contracts.pdb
+C:\Users\olanrewaju.ebenezer\Documents\Visual Studio 2015\Projects\ecommerce\ecommerce.Services\bin\Debug\ecommerce.Model.pdb
+C:\Users\olanrewaju.ebenezer\Documents\Visual Studio 2015\Projects\ecommerce\ecommerce.Services\obj\Debug\ecommerce.Services.dll
+C:\Users\olanrewaju.ebenezer\Documents\Visual Studio 2015\Projects\ecommerce\ecommerce.Services\obj\Debug\ecommerce.Services.pdb
