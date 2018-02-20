@@ -2,3 +2,4 @@ C:\Users\olanrewaju.ebenezer\Documents\Visual Studio 2015\Projects\ecommerce\eco
 C:\Users\olanrewaju.ebenezer\Documents\Visual Studio 2015\Projects\ecommerce\ecommerce.Contracts\bin\Debug\ecommerce.Contracts.pdb
 C:\Users\olanrewaju.ebenezer\Documents\Visual Studio 2015\Projects\ecommerce\ecommerce.Contracts\obj\Debug\ecommerce.Contracts.dll
 C:\Users\olanrewaju.ebenezer\Documents\Visual Studio 2015\Projects\ecommerce\ecommerce.Contracts\obj\Debug\ecommerce.Contracts.pdb
+C:\Users\olanrewaju.ebenezer\Documents\Visual Studio 2015\Projects\ecommerce\ecommerce.Contracts\obj\Debug\ecommerce.Contracts.csprojResolveAssemblyReference.cache

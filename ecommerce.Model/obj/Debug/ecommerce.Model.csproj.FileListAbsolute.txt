@@ -2,4 +2,3 @@ C:\Users\olanrewaju.ebenezer\Documents\Visual Studio 2015\Projects\ecommerce\eco
 C:\Users\olanrewaju.ebenezer\Documents\Visual Studio 2015\Projects\ecommerce\ecommerce.Model\bin\Debug\ecommerce.Model.pdb
 C:\Users\olanrewaju.ebenezer\Documents\Visual Studio 2015\Projects\ecommerce\ecommerce.Model\obj\Debug\ecommerce.Model.dll
 C:\Users\olanrewaju.ebenezer\Documents\Visual Studio 2015\Projects\ecommerce\ecommerce.Model\obj\Debug\ecommerce.Model.pdb
-C:\Users\olanrewaju.ebenezer\Documents\Visual Studio 2015\Projects\ecommerce\ecommerce.Model\obj\Debug\ecommerce.Model.csprojResolveAssemblyReference.cache
